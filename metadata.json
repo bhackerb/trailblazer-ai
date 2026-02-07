@@ -1,0 +1,7 @@
+{
+  "name": "TrailBlazer AI",
+  "description": "Smart hiking and running trail recommender powered by Gemini and Google Maps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
